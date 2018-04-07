@@ -9,11 +9,13 @@ navbar:
     - text: "Courses"
       href: courses.html
     - text: "BSBA Overview"
-      href: 
+      href: overview.html
     - text: "FAQ"
-      href: 
+      href: faq.html
     - text: "Student Projects"
-      href: 
+      href: projects.html
+    - text: "Research"
+      href: research.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/SUNY-Poly-Finance
