@@ -3,10 +3,10 @@ title: ''
 output: html_document
 ---
 
-## BSBA Finance Description
+# BSBA Finance Description
 
 <iframe src="./fin_desc.pdf" width="800" height="400"></iframe>
 
-## BSBA Finance Sample Schedule
+# BSBA Finance Sample Schedule
 
 <iframe src="./fin_sample_schedule1.pdf" width="800" height="400"></iframe>
