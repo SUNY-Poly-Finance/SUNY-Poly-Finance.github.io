@@ -5,5 +5,4 @@ output: html_document
 
 ## Student Projects
 
-
-
+### <a href="./student_projects/Black Scholes.xlsx">Justin Szepessy: Black-Scholes Option Valuation</a>
