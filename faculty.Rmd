@@ -4,3 +4,7 @@ output: html_document
 ---
 
 ## Matt Brigida, Ph.D.
+
+Associate Professor of Finance, SUNY Polytechnic Institute
+
+Senior Fellow, Milken Institute Center for Financial Markets
