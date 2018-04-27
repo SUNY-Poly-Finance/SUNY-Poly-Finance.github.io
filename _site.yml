@@ -18,6 +18,8 @@ navbar:
       href: faq.html
     - text: "Research"
       href: research.html
+    - text: "Faculty"
+      href: faculty.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/SUNY-Poly-Finance
