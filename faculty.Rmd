@@ -8,3 +8,7 @@ output: html_document
 Associate Professor of Finance, SUNY Polytechnic Institute
 
 Senior Fellow, Milken Institute Center for Financial Markets
+
+<!--- ![Matt Brigida](./pic_front_chalkboard.JPG) -->
+
+<img src="./pic_front_chalkboard.JPG" width="400" height="200"></img>
