@@ -20,6 +20,8 @@ navbar:
       href: research.html
     - text: "Faculty"
       href: faculty.html
+    - text: "Internships"
+      href: internships.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/SUNY-Poly-Finance
