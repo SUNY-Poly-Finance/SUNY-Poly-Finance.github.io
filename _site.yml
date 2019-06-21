@@ -7,7 +7,17 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Courses"
-      href: courses.html
+      icon: fa-flask
+      menu:
+        - text: "FIN 302"
+          href:
+        - text: "FIN 332"
+          href:
+        - text: "FIN 411"
+          href:
+        - text: "FIN 532"
+          href:
+      # href: courses.html
     - text: "BSBA Overview"
       href: overview.html
     - text: "Student Resumes"
