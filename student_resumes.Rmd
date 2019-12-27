@@ -5,5 +5,4 @@ output: html_document
 
 ## Job Market Candidates
 
-<!-- <iframe src="./jeonga park.docx" width="800" height="400"></iframe> -->
-### <a href="./resumes/jeonga park.docx">Jeonga Park</a>
+<!--- ### <a href="./resumes/jeonga park.docx">Jeonga Park</a>-->

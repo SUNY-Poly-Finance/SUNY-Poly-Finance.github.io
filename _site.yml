@@ -6,16 +6,18 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Courses"
+    - text: "Course Syllabi"
       icon: fa-flask
       menu:
         - text: "FIN 302"
-          href:
+          href: https://matt-brigida.github.io/fin-302-syllabus/
         - text: "FIN 332"
-          href:
+          href: https://matt-brigida.github.io/FIN-332-syllabus/
         - text: "FIN 411"
-          href:
+          href: https://matt-brigida.github.io/FIN_411_syllabus/
         - text: "FIN 532"
+          href: https://matt-brigida.github.io/fin_532_syllabus/
+        - text: "FIN 685"
           href:
       # href: courses.html
     - text: "BSBA Overview"
